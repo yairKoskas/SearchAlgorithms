@@ -9,5 +9,5 @@ Graph search algorithms implemented in python
 - [ ] A*
 - [ ] Bellman-Ford
 ### APSP:
-- [] Floyd-Warshall
-- [] Johnson
+- [ ] Floyd-Warshall
+- [ ] Johnson
